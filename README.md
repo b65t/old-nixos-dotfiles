@@ -1,11 +1,11 @@
 # dotfiles ❄️
 
- os : (https://nixos.org/)[nixos]
+os : [nixos](https://nixos.org/)
 
- wm : (https://hyprland.org/)[hyprland]
+wm : [hyprland](https://hyprland.org/)
 
- bar : (https://github.com/Alexays/Waybar)[waybar]
+bar : [waybar](https://github.com/Alexays/Waybar)
 
- term : (https://codeberg.org/dnkl/foot)[foot]
+term : [foot](https://codeberg.org/dnkl/foot)
 
- text editor : neovim
+text editor : neovim
