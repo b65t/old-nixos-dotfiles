@@ -9,17 +9,8 @@ nixpkgs = {
  };
 
 home.packages = [
-
-  pkgs.firefox
-  pkgs.spotify
-  pkgs.mpv
-  pkgs.osu-lazer
-  pkgs.yazi
-  pkgs.xfce.thunar
-  pkgs.papirus-icon-theme
-  pkgs.discord
-  pkgs.floorp
-  pkgs.vscodium
+# add user pkgs here
+# pkgs.firefox
 
 ];
 
