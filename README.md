@@ -1,15 +1,15 @@
 # dotfiles ❄️
 
-os : [nixos](https://nixos.org/)
+| os | [nixos](https://nixos.org/) |
 
-wm : [hyprland](https://hyprland.org/)
+| wm | [hyprland](https://hyprland.org/) |
 
-bar : [waybar](https://github.com/Alexays/Waybar)
+| bar | [waybar](https://github.com/Alexays/Waybar) |
 
-term : [foot](https://codeberg.org/dnkl/foot)
+| term | [foot](https://codeberg.org/dnkl/foot) |
 
-color scheme : [everforest](https://github.com/sainnhe/everforest)
+| color scheme | [everforest](https://github.com/sainnhe/everforest) |
 
-shell : fish
+| shell | fish |
 
-text editor : neovim
+| text editor | neovim |
