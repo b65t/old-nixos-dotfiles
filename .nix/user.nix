@@ -2,9 +2,9 @@
 
 {
 
-   users.users.islam = {
+   users.users.username = {
      isNormalUser = true;
-     initialPassword = "islam";
+     initialPassword = "userpassword";
      extraGroups = [ "wheel" "networkmanager" ];
      shell = pkgs.fish;
   #   packages = with pkgs; [
