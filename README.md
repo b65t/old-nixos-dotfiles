@@ -1,6 +1,6 @@
 # dotfiles ❄️
 
-| Component         | Program                                                                                                   |
+| Component         | Program |
 |-----|------------------------|
 | os | [nixos](https://nixos.org/) |
 | wm | [hyprland](https://hyprland.org/) | 
