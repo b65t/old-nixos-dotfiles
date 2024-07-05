@@ -3,7 +3,7 @@ if status is-interactive
 end
 
 function fish_prompt
-    set_color green
+    set_color blue
     printf " %s" (prompt_pwd)
     echo ' > '
     end
