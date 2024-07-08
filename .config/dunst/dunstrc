@@ -50,22 +50,22 @@ force_xwayland = false
 force_xinerama = false
 
 [urgency_low]
-background = "#2e3440"
-foreground = "#e5e9f0"
-frame_color = "#3b4252"
+background = "#3c3836"
+foreground = "#ebdbb2"
+frame_color = "#504945"
 timeout = 10
 
 [urgency_normal]
-background = "#2e3440"
-foreground = "#e5e9f0"
-frame_color = "#3b4252"
+background = "#3c3836"
+foreground = "#ebdbb2"
+frame_color = "#504945"
 timeout = 10
 override_pause_level = 30
 
 [urgency_critical]
-background = "#2e3440"
-foreground = "#bf616a"
-frame_color = "#3b4252"
+background = "#3c3836"
+foreground = "#fb4934"
+frame_color = "#504945"
 timeout = 0
 override_pause_level = 60
 
