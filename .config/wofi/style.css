@@ -1,27 +1,27 @@
 window {
 	font-size: 17px;
 	font-family: "NotoSans Nerd Font";
-	background-color: rgba(46, 52, 64, 0.9);
-	color: #d8dee9;
+	background-color: rgba(60, 56, 54, 0.9);
+	color: #ebdbb2;
 	margin: 0px;
-	border: 2px solid #4c566a;
+	border: 2px solid #83a598;
     	border-radius: 0px;
 }
 
 #entry:selected {
-	background-color: #434c5e;
+	background-color: #665c54;
 	border-radius: 0px;
         margin: 0px 2px 0px 2px; 
 }
 
 #input{
-	background-color: #2e3440;
-	color: #eceff4;
+	background-color: #3c3836;
+	color: #ebdbb2;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 	border-bottom-left-radius: 10;
 	border-bottom-right-radius: 10;
 	border-radius: 5px;
-	border: 2px solid #4c566a;
+	border: 2px solid #7c6f64;
 	margin: 20px;
 }
